@@ -1,235 +1,108 @@
-# 게임 트렌드 리포트 — 2026-10-27
+# 게임 트렌드 리포트 — 2026-11-03
 
-사용자 요청 공개 조사 초안 · 전체 근거 미충족. 정식 검증 완료 보고서가 아닙니다.
+사용자 요청 공개 조사 초안 · 전체 근거 미충족
 
-공개 시각: 2026-10-27T22:20:38.953174+09:00 / 자료 통합: 2026-10-27T17:12:06.516713+09:00
+직접 플레이한 체험기가 아닙니다. 2026-11-03 당일 공개 차트·스토어·실제 리뷰·기사·토론·자막을 바탕으로 정리했으며, 근거 공백은 각 게임 본문에 남겼습니다. 제목·요약표 계수와 배포 파일 무결성 확인은 콘텐츠 의미 검증과 별개입니다.
 
-모바일 5개·PC 5개, 중복 없는 10종. 지표는 원래 관측 시점이며 실시간 수치가 아닙니다. 직접 플레이한 체험기가 아니며 리뷰·커뮤니티는 편의표본입니다.
+| 게임 | 선정 이유 | 관측 정량 신호: KR iPhone 무료 게임 / 누적 평가 | 이용자 반응 | 신뢰도 |
+|---|---|---|---|---|
+| 워라인: 스나이퍼 | 차트 선두·저격/기지 전략 기대차 | 1위 / 4.9점·401개 | 손맛 호평·기지 성장/재로그인 불만, 판단 보류 | 낮음 |
+| 탕탕에이스 | 한 손 탄막·다중 성장 구조 | 2위 / 4.8점·표시2.7천개 | 조작 호평·광고/성장벽 불만 혼재 | 중간 |
+| 몬스터헌터 아웃랜더스 | 헌팅 액션 모바일 전환 | 3위 / 4.8점·표시1천개 | 조작 편의 호평·시야/파티/과금 우려 혼재 | 중간 |
+| 아쿠아랜드: 크레이지 서바이벌 | 최신 버전·연맹/시즌 논의 | 4위 / 4.5점·표시1.9천개 | 실독 표본 불만 중심 | 낮음 |
+| 아이러브레스토랑 : 고양이와 매장 경영 | 무료 상위 경영 SNG·안정성 | 5위 / 3.4점·22개 | 계정/접속/멈춤 불만 중심 | 낮음 |
 
-## 1. WOS: 화이트아웃 서바이벌
+| 게임 | 선정 이유 | 글로벌 순위 / 현재 플레이어 / 표시 최고값 | 이용자 반응 | 신뢰도 |
+|---|---|---|---|---|
+| AION 2 | NC 글로벌 MMORPG·경제 정책 논의 | 4 / 157,067 / 210,025 | 탐험/PvE 호평·구독/부캐 성장 불만 혼재 | 중간, 지역/기간 공백 |
+| PUBG: BATTLEGROUNDS | 한국 개발 장기 운영·패스/안정성 | 9 / 104,412 / 764,045 | 현재 만족 판단 보류 | 낮음 |
+| ARC Raiders | 한국 관련 서비스·1주년/운영 | 15 / 60,739 / 78,956 | 성능 호평·기습/손실·PvE 논쟁 | 중간, 기간 공백 |
+| Phantom Blade Zero | 공식 출시표시10월28일 신작·한국어 | 10 / 92,838 / 827,122 | 전투 호평·보스/성능 불만 혼재 | 중간, 플랫폼 차이 |
+| Limbus Company | 한국 개발·신규 모드/전투 토론 | 77 / 16,627 / 36,586 | 서사 호평·자동 선택/반복 불만 혼재 | 중간 |
 
-- 지표: 한국 iOS 게임 매출 1위 / 한국 App Store · 게임 · 매출 순위 / 관측 2026-10-27T05:19:07.844901+00:00
-- 표본 반응: 혼재 / 신뢰도 낮음
-- 장점: 기존 한국어 원문에는 초보자도 쉽게 접근하는 킬링타임용이라는 평가가 있고, 새 미국 표본에도 성장·보상을 반복하는 중독성을 호평한 글이 있다.
-- 주의: 새 미국 리뷰 앞부분에서 광고 속 자유 이동·직접 채집과 실제 도시 성장 플레이의 불일치가 반복된다. 한국 커뮤니티 1건은 펫 단련의 무작위 결과와 과금 대비 성장 차이를 고민한다. 광고 노출물 전체나 실제 확률을 독립 검증한 것은 아니다.
-- 영상: WOS Strategy Lab의 10월 업데이트 해설은 실제 게시일을 확보했으나 자막 UI가 빈 상태였다. 다른 후보는 오래된 영상이므로 최근 영상 본문 요건을 채우지 못했다.
-- 평가에 사용한 범위: 기존 한국 리뷰와 새 미국 리뷰 앞 6건, 한국 커뮤니티 1건. 미국 전체 수집분을 정성 분류한 것은 아님.
-- 판단: 광고의 직접 조작 생존 게임을 기대한다면 실제 조작 범위를 먼저 확인. 미국 표본은 한국 여론과 섞어 일반화하지 않는다.
-- 다음 확인: 최근 WOS 영상의 정상 자막 또는 실제 재생 프레임 확보. 한국어 최신 리뷰 안정성 재확인.
-- 근거 미달: youtube
+## 1. 워라인: 스나이퍼
 
-- 출처 identity / 본문 확보 기록 / https://itunes.apple.com/lookup?id=6443575749&country=kr
-- 출처 quantitative / 본문 확보 기록 / https://itunes.apple.com/kr/rss/topgrossingapplications/limit=100/genre=6014/json
-- 출처 player_review / 본문 확보 기록 / https://itunes.apple.com/kr/rss/customerreviews/page=1/id=6443575749/sortby=mostrecent/xml
-- 출처 community / 본문 미검증 / https://cafe.naver.com/whiteoutsurvival01
-- 출처 youtube / 본문 미검증 / https://www.youtube.com/watch?v=kpgDVuLdDY4
-- 출처 article / 본문 확보 기록 / https://www.centurygames.com/whiteout-survival-stacking-order/
-- 출처 player_review / 본문 확보 기록 / https://itunes.apple.com/us/rss/customerreviews/page=1/id=6443575749/sortby=mostrecent/xml
-- 출처 community / 본문 확보 기록 / https://gall.dcinside.com/mgallery/board/view/?id=whiteoutsv&no=111759
-- 출처 youtube / 본문 미검증 / https://www.youtube.com/watch?v=H-HlOInGRTU
+- [KR 스토어](https://apps.apple.com/kr/app/id6742809194): Powerfantasy, 1.4.03. 공식 설명에 저격뿐 아니라 도시·장교·병력·연맹과 확률형 선택 유료 콘텐츠가 있다. 순수 저격 게임으로만 소개하면 제품 구조를 빠뜨린다. 이벤트 정확 일정·상품 가격은 미검증.
+- [Apple RSS](https://itunes.apple.com/kr/rss/customerreviews/page=1/id=6742809194/sortby=mostrecent/json)의 구체 문장에서 기지 성장 첫인상·재로그인 실패 호소를 읽었다. [Google Play](https://play.google.com/store/apps/details?id=com.farlightgames.warline.gp.global&hl=ko&gl=KR) 관련성순 실제 ID/본문은 사격 손맛·초반 광고 부재를 언급한다. 장기 광고 정책이 없다는 뜻은 아니다. 일반 감탄 제외, 인증 n 미계수.
+- [DIGWOW](https://www.digwow.net/워라인-스나이퍼/)는 가이드 허브로 독립 날짜 리뷰가 아니며 상충 정량은 제외. [공식 랜딩](https://warline.powerfantasygames.com/)은 이용자 스레드가 아니다.
+- [게임달고나 영상](https://www.youtube.com/watch?v=mQBlSqswqFM), 표시11월2일. 실제 자막은 음악/고립 토큰 중심으로 의미 있는 평가에 부적합. 협찬 미확인.
+- 판단: 상위 관심·반응 보류·낮은 신뢰. 과금 추천 보류. 다음은 재로그인 수정, 저격 이후 기지/연맹 부담, 확률·패키지, 한국 장기 후기다.
 
-## 2. 킹샷:Kingshot
+## 2. 탕탕에이스
 
-- 지표: 한국 iOS 게임 매출 2위 / 한국 App Store · 게임 · 매출 순위 / 관측 2026-10-27T05:19:07.844901+00:00
-- 표본 반응: 혼재 / 신뢰도 중간
-- 장점: 최근 한국 리뷰에는 업그레이드와 경쟁의 재미, 게임 내 광고가 없다는 개인 경험, 주기적인 이벤트를 좋아한다는 구체적 평가가 있다. 광고 유무는 해당 리뷰의 주장이지 별도 실측 결과는 아니다.
-- 주의: 광고와 다른 플레이, 과금 중단 후 전투력 격차를 지적한다. 커뮤니티 1건은 패스를 모두 사고 일별 구매를 더하는 보상 달성법을 논의한다. 개인 구매 경로이지 필수 결제액을 입증하지 않는다.
-- 영상: 킹샷TV 2026-10-27 공개 영상의 0:41~2:01은 할로윈 보상의 무작위성을, 4:26~6:49는 목표 보상과 패키지 구매 판단을 설명한다. 2:09~3:09에는 외부 충전 서비스 홍보가 있어 비상업적 독립 추천으로 취급하지 않는다. 자동자막의 확률·가격 오류 가능성으로 수치 단정은 보류한다.
-- 평가에 사용한 범위: 새 한국 리뷰 앞 6건, 커뮤니티 1건, 최근 영상 실제 자막. 전체 리뷰 긍부정 비율 미산출.
-- 판단: 도시 성장·동맹 경쟁을 원하는 이용자 후보. 순위형 스킨이나 보상을 목표로 지출하기 전 공식 규칙과 예산 상한을 확인한다. 영상의 외부 결제 서비스는 추천하지 않는다.
-- 다음 확인: 공식 이벤트 보상·확률 규칙과 무과금 진행 가능 범위, 서버별 경쟁 강도 교차확인.
-- 근거 미달: 개별 구조 요건 충족. 의미 검수 완료 아님.
+- [KR 스토어](https://apps.apple.com/kr/app/id6789467258): Gorilla Games, 1.2.0. 한 손 이동·자동 조준·감속과 파일럿/기체/장비/연구 성장축을 설명한다. 10월20일 변경내역을 오늘 패치로 부르지 않는다.
+- [RSS](https://itunes.apple.com/kr/rss/customerreviews/page=1/id=6789467258/sortby=mostrecent/json)에서 스트레스 해소·에너지 요구, 광고 흐름 방해, 반복성·성장/뽑기·감도 불만을 읽었다. 확률 조작·특정 광고 길이·무과금 불가능은 이용자 주장으로만 보존한다. 인증 최근 n 미계수.
+- [글로벌E10월26일 리뷰](https://www.globale.co.kr/news/articleView.html?idxno=41234)는 조작/빌드 재미와 외부 성장 피로를 다룬다. 7일 목표 밖 확장 배경. [DC10월26일 공략](https://gall.dcinside.com/mgallery/board/view/?id=game2027&no=39)의 장비/패스 조언은 공식 정답이 아니다.
+- [혜안10월24일 영상](https://www.youtube.com/watch?v=9v2EhaonMW8), 표시813,284회·실제0:00~18:47 자막. 조작감·난도·장비·조합 소감을 확인했다. 전용 링크/쿠폰 홍보 맥락, 유료 협찬 표시는 미확정. 독립 장기 무과금 검증이 아니다.
+- 판단: 상위 관심·혼재·중간 신뢰. 다음은 광고 제거 조건, 계정 연동, 동일 조건 무과금 진행과 실제 확률 공개다.
 
-- 출처 identity / 본문 확보 기록 / https://itunes.apple.com/lookup?id=6739554056&country=kr
-- 출처 quantitative / 본문 확보 기록 / https://itunes.apple.com/kr/rss/topgrossingapplications/limit=100/genre=6014/json
-- 출처 player_review / 본문 확보 기록 / https://apps.apple.com/kr/app/id6739554056?see-all=reviews
-- 출처 community / 본문 미검증 / https://www.facebook.com/share/14dZiDuJ8n/?mibextid=wwXIfr
-- 출처 article / 본문 확보 기록 / https://www.centurygames.com/kingshot-tag-your-new-friend/
-- 출처 player_review / 본문 확보 기록 / https://itunes.apple.com/kr/rss/customerreviews/page=1/id=6739554056/sortby=mostrecent/xml
-- 출처 player_review / 본문 미검증 / https://itunes.apple.com/us/rss/customerreviews/page=1/id=6739554056/sortby=mostrecent/xml
-- 출처 community / 본문 확보 기록 / https://gall.dcinside.com/mgallery/board/view/?id=kingshot&no=15344
-- 출처 youtube / 본문 확보 기록 / https://www.youtube.com/watch?v=LbuoDzPEjOY
+## 3. 몬스터헌터 아웃랜더스
 
-## 3. 가십하버: 합성 & 스토리 게임
+- [KR 스토어](https://apps.apple.com/kr/app/id6763262759): Garena·TiMi·CAPCOM 라이선스, 1.0.11·대표 무기8종. 미도리 이벤트 표시의 정확 기간은 미확인. 직접 기능시험은 아니다.
+- [RSS](https://itunes.apple.com/kr/rss/customerreviews/page=1/id=6763262759/sortby=mostrecent/json)의 실제 문장은 간편 조작을 호평하면서 사냥 시야·파티 의존·모험가 과금 확대를 우려한다. 픽업 성능 인상만으로 유료 격차를 확정하지 않는다. 생성일 인증 n 미계수.
+- [PNN11월2일16:21 첫인상](https://www.ipnn.co.kr/news/articleView.html?idxno=418112): 수동 액션·필드·제작·콘텐츠와 모바일 조작/일과 피로를 함께 읽었다. 기사 조건문을 PC판 발표로 바꾸지 않는다.
+- [네이버 라운지](https://game.naver.com/lounge/monsterhunteroutlanders/board/detail/8397099)는 이번 로그인 장벽으로 중단, 전일 본문을 오늘 재사용하지 않았다. [영상 후보](https://www.youtube.com/watch?v=TLxbmUozok4)는 제목/채널/자막 미확보다.
+- 판단: 관심 상위·혼재·중간 신뢰, 영상/커뮤니티 공백. 다음은 컨트롤러·시야, 캐릭터 성장 요구, 공개 장기 후기와 독립 영상이다.
 
-- 지표: 한국 iOS 게임 매출 3위 / 한국 App Store · 게임 · 매출 순위 / 관측 2026-10-27T05:19:07.844901+00:00
-- 표본 반응: 혼재 / 신뢰도 낮음
-- 장점: 최근 한국 리뷰는 주문을 맞추는 사고 과정과 일하는 듯한 몰입감, 지루하지 않은 플레이를 좋아한다.
-- 주의: 에너지 회복에 비해 소모가 빠르고 고단계 주문이 연속되면 하루 에너지를 소진한다는 불만이 있다. 별도 커뮤니티 1건도 고레벨 주문이 동시에 들어오는 부담을 말한다. 모든 이용자에게 주문 난도가 동일하다고 단정할 수 없다.
-- 영상: Play With Genieyah의 2026-10-03 플레이 영상은 메타데이터만 확인됐다. 자막 버튼이 없고 정상 재생 시도에서도 readyState=0이라 실제 영상 본문은 미검증이다. 플레이어 표지 이미지를 시청 근거로 쓰지 않는다. 대안 검색의 오래된 리뷰·핵 홍보 영상은 제외했다.
-- 평가에 사용한 범위: 새 한국 리뷰 앞 6건과 한국 커뮤니티 1건. 영상 내용은 평가에 사용하지 않음.
-- 판단: 머지·주문 해결을 좋아하면 검토하되 에너지와 고레벨 주문의 대기 부담을 먼저 확인. 에너지 과금이 필수라는 주장으로 확대하지 않는다.
-- 다음 확인: 최근 실제 플레이 영상 본문 확보, 에너지 획득·소모 규칙과 주문 난도 변화 확인.
-- 근거 미달: youtube
+## 4. 아쿠아랜드: 크레이지 서바이벌
 
-- 출처 identity / 본문 확보 기록 / https://itunes.apple.com/lookup?id=1623318294&country=kr
-- 출처 quantitative / 본문 확보 기록 / https://itunes.apple.com/kr/rss/topgrossingapplications/limit=100/genre=6014/json
-- 출처 player_review / 본문 확보 기록 / https://itunes.apple.com/kr/rss/customerreviews/page=1/id=1623318294/sortBy=mostRecent/json?l=ko&cc=kr
-- 출처 community / 본문 미검증 / https://www.facebook.com/GossipHarbor
-- 출처 player_review / 본문 확보 기록 / https://itunes.apple.com/kr/rss/customerreviews/page=1/id=1623318294/sortby=mostrecent/xml
-- 출처 player_review / 본문 미검증 / https://itunes.apple.com/us/rss/customerreviews/page=1/id=1623318294/sortby=mostrecent/xml
-- 출처 community / 본문 확보 기록 / https://gall.dcinside.com/mgallery/board/view/?id=gossipharbor&no=3778
-- 출처 youtube / 본문 미검증 / https://www.youtube.com/watch?v=TtryG3jQO0Q
+- [KR 스토어](https://apps.apple.com/kr/app/id6780387121): Hong Kong Just Game Technology, 1.2.4·13시간 전, ‘시스템 최적화, 버그 수정’. 특정 장애 해결을 입증하지 않는다.
+- [RSS](https://itunes.apple.com/kr/rss/customerreviews/page=1/id=6780387121/sortby=mostrecent/json) 실제 문장은 광고/실제 차이, 성장·연맹 격차·성급 초기화·모험 밸런스를 비판한다. 재미 인정도 있다. 1.2.3 표본이어서 새 버전 효과 미확인. 인증 n 미계수.
+- [인벤9월1일 출시 기사](https://www.inven.co.kr/webzine/news?news=320270)는 기간 밖 보도자료, 당시 보상을 현재 혜택으로 안내하지 않는다. [DC10월11일 시즌 글](https://gall.dcinside.com/mgallery/board/view/?id=crazyworld&no=29)은 자원 보존/초기화 논의이며 댓글 이견이 있다.
+- [지료TV9월25일 영상](https://www.youtube.com/watch?v=AHiA2jT6CA4), 표시50,345회·실제0:00~4:28 자막. 낚시/가공/생산/회피 초반 체험이며 기간 밖·장기 과금 근거 아님. 협찬 미확인.
+- 판단: 상위 관심·실독 불만 중심·낮은 신뢰. 다음은1.2.4 이후 장애, 공식 시즌 규칙·연맹 이동/매칭과 최근 독립 영상이다.
 
-## 4. 운빨존많겜
+## 5. 아이러브레스토랑 : 고양이와 매장 경영
 
-- 지표: 한국 iOS 게임 매출 4위 / 한국 App Store · 게임 · 매출 순위 / 관측 2026-10-27T05:19:07.844901+00:00
-- 표본 반응: 혼재·접속 문제 확인 필요 / 신뢰도 중간
-- 장점: 최근 리뷰에는 재미있게 즐긴다는 평가가 있고, 파워나갔다의 실제 자막은 고레벨 닌자에 공격속도·방어 관련 지원을 조합하는 협동 빌드 실험을 보여준다. 해당 고스펙 플레이를 신규·무과금의 평균 경험으로 제시하지 않는다.
-- 주의: 새 리뷰 앞부분에 업데이트 뒤 로그인·네트워크 오류, 로딩·밸런스 불만이 있다. 커뮤니티 1건은 레벨 차이가 큰 매칭과 기절 역할을 수행하지 않는 동료에 불만을 제기한다. 실제 장애 범위와 원인, 복구 여부는 공식 공지로 확정하지 못했다.
-- 영상: 파워나갔다 2026-10-25 공개 영상 실제 자막 확보. 0:23~0:58은 고레벨 영웅·펫·장비 조건, 1:23 이후 지원 빌드, 6:48~7:08 실수와 8:21 이후 히든 모드 진입을 다룬다. 자동자막의 고유명사·수치는 교차확인 필요. 협찬 여부 미확인.
-- 평가에 사용한 범위: 새 한국 리뷰 앞 6건, 커뮤니티 1건, 실제 영상 자막. 전체 표본의 만족도 비율 미산출.
-- 판단: 협동 빌드·실패 학습을 좋아하면 후보. 결제 전 현재 계정의 로그인 안정성과 초기화 재화 수급, 매칭 경험부터 확인한다.
-- 다음 확인: 공식 장애·점검 공지 및 정상 로그인 확인, 초보/고스펙 이용자의 별도 표본 확보.
-- 근거 미달: 개별 구조 요건 충족. 의미 검수 완료 아님.
+- [KR 스토어](https://apps.apple.com/kr/app/id6792678112): SONEW·1.0.4, 농장/생산·경영/꾸미기·직원 육성·협업 설명. 10월20일 오류/안정성 개선을 오늘 패치로 쓰지 않는다.
+- [RSS](https://itunes.apple.com/kr/rss/customerreviews/page=1/id=6792678112/sortby=mostrecent/json)에서 계정 상실·‘데이터 없음 코드11’·멈춤 호소, 시각 자산에 대한 AI 의심과 차별성 불만을 읽었다. AI 제작 사실·장애율·계정 삭제를 확인한 것은 아니다. 인증 n 미계수.
+- [MuMu9월3일 글](https://www.mumuplayer.com/kr/blog/i-love-restaurant-release-date.html)은 기간 밖 출시 전/에뮬레이터 홍보. [WAME](https://www.wame.is/ko/game/6513)는 로딩 셸뿐, 실제 커뮤니티 본문 공백이다.
+- [게임달고나10월7일 영상](https://www.youtube.com/watch?v=bGQ1uN967Ik), 표시1,400회·실제0:07~12:56 자막은 음악/Meow/Hey 중심. 의미 있는 설명형 평가에 미달하며 설명란을 발화로 쓰지 않는다. 협찬 미확인.
+- 판단: 상위 관심·실독 불만 중심·낮은 신뢰. 우선 계정 복구/지원·코드11/프리징 수정 확인, 이후 생산 대기·직원 뽑기·협동을 검토한다.
 
-- 출처 identity / 본문 확보 기록 / https://itunes.apple.com/lookup?id=6482291732&country=kr
-- 출처 quantitative / 본문 확보 기록 / https://itunes.apple.com/kr/rss/topgrossingapplications/limit=100/genre=6014/json
-- 출처 player_review / 본문 확보 기록 / https://itunes.apple.com/kr/rss/customerreviews/page=1/id=6482291732/sortby=mostrecent/json
-- 출처 community / 본문 미검증 / https://cafe.naver.com/omfgluckyme
-- 출처 player_review / 본문 미검증 / https://itunes.apple.com/kr/rss/customerreviews/page=1/id=6482291732/sortby=mostrecent/xml
-- 출처 player_review / 본문 미검증 / https://itunes.apple.com/us/rss/customerreviews/page=1/id=6482291732/sortby=mostrecent/xml
-- 출처 community / 본문 확보 기록 / https://gall.dcinside.com/mgallery/board/view/?id=onlyluckygame&no=1221902
-- 출처 player_review / 본문 미검증 / https://itunes.apple.com/kr/rss/customerreviews/page=1/id=6482291732/sortBy=mostRecent/json?l=ko&cc=kr
-- 출처 youtube / 본문 확보 기록 / https://www.youtube.com/watch?v=BIDCCC1ic8A
+## 6. AION 2
 
-## 5. 컴투스프로야구V26
+- [US 공식 appdetails](https://store.steampowered.com/api/appdetails?appids=3393110&cc=us&l=korean): NC·무료·한국어, 출시표시10월5일. US 성공은 한국 Steam 서비스 가능 증명이 아니다. 글로벌 동접을 한국 서버/퍼플과 합산하지 않는다.
+- 새 API 실제 문장에서 탐험/도감·PvE를 호평하고 거래소 구독·부캐 반복·PvP 격차·채집/채팅을 비판했다. 확률 조작 의심은 검증 사실 아님. 단어뿐인 리뷰 제외, 생성시각 인증 n 미계수.
+- [구독 서버귀속 토론](https://steamcommunity.com/app/3393110/discussions/6/583935635494124713/)은9월30일·수정10월3일로 목표 밖. [ZDNet10월6일](https://zdnet.co.kr/view/?no=20261006132151)은 회사 발표 전달로 독립 플레이 리뷰가 아니다. MMORPG.com/MassivelyOP 보안화면은 중단했다.
+- [Deathboi52310월11일 영상](https://www.youtube.com/watch?v=xVHvmG0Jyr0), 실제0:00~13:49 자막. 세계/힐러를 인정하고 성장 의무감·구독을 비판한다. 글로벌/KR 차이를 명시하며 한국 경험으로 일반화하지 않는다. 협찬 미확인.
+- 판단: 높은 관심·혼재·중간 신뢰. 다음은 구독 계정/서버 범위·공식 거래 정책과 한국 실사용자의 생성일 인증 문장이다.
 
-- 지표: 한국 iOS 게임 매출 5위 / 한국 App Store · 게임 · 매출 순위 / 관측 2026-10-27T05:19:07.844901+00:00
-- 표본 반응: 혼재 / 신뢰도 중간·시각 정밀도 제한
-- 장점: Google Play 최신순 공개 리뷰에는 선수 육성·실시간 투구의 긴장감·홈런의 쾌감과 그래픽을 호평한 경험이 있다.
-- 주의: 같은 최신순 표본에는 팀 오버롤 차이가 큰 매칭, 과금에 따른 격차, 장기 보관과 재료 카드 사용의 혼란, 높은 난도 불만이 있다. 서비스 전체의 버그나 확률 문제로 확정하지 않는다. 커뮤니티 1건은 한계돌파·선수 선택의 성장 결정을 질문한다.
-- 영상: 산디_SanD 2026-10-26 공개 영상 실제 자막 확보. 3:58~4:23은 조합 재료 범위를 넘는 지출을 경계하며, 이후 조합 결과에 대한 기대와 좌절이 나타난다. 특정 번호를 고르면 잘 나온다는 발언은 오락적 반응으로만 취급하고 확률 공략으로 제시하지 않는다. 협찬 여부 미확인.
-- 평가에 사용한 범위: Google Play 최신순 리뷰 20건(화면 표시 작성일 2026-10-24~25), 커뮤니티 1건, 실제 영상 자막. 실제 리뷰 ID·본문은 저장했으나 정확한 시각·시간대가 없어 현 자동 게이트 리뷰 수에는 포함하지 않음.
-- 판단: KBO 선수 육성과 실시간 승부를 원하는 이용자 후보. 순위 대결보다 리그 중심으로 시작하고, 선수 영입·육성 예산과 매칭 격차 허용 범위를 먼저 정한다.
-- 다음 확인: 현재 게이트가 요구하는 실제 시간대 포함 리뷰 작성 시각 확보. 날짜만 표시된 Google Play 리뷰를 임의의 자정 시각으로 바꾸지 않는다.
-- 근거 미달: need_5_recent_read_player_reviews
+## 7. PUBG: BATTLEGROUNDS
 
-- 출처 identity / 본문 확보 기록 / https://itunes.apple.com/lookup?id=1458848044&country=kr
-- 출처 quantitative / 본문 확보 기록 / https://itunes.apple.com/kr/rss/topgrossingapplications/limit=100/genre=6014/json
-- 출처 player_review / 본문 확보 기록 / https://apps.apple.com/kr/app/id1458848044?see-all=reviews
-- 출처 community / 본문 미검증 / https://cpbv-community.com2us.com/board/13
-- 출처 youtube / 본문 미검증 / https://www.youtube.com/watch?v=TAtTVFkLdFE
-- 출처 article / 본문 확보 기록 / https://cpbv-community.com2us.com/board/1/297627
-- 출처 player_review / 본문 미검증 / https://itunes.apple.com/kr/rss/customerreviews/page=1/id=1458848044/sortby=mostrecent/xml
-- 출처 player_review / 본문 확보 기록 / https://itunes.apple.com/us/rss/customerreviews/page=1/id=1458848044/sortby=mostrecent/xml
-- 출처 community / 본문 확보 기록 / https://gall.dcinside.com/mgallery/board/view/?id=cpyv22&no=1583996
-- 출처 player_review / 본문 미검증 / https://itunes.apple.com/kr/rss/customerreviews/page=1/id=1458848044/sortBy=mostRecent/json?l=ko&cc=kr
-- 출처 player_review / 본문 미검증 / https://itunes.apple.com/kr/rss/customerreviews/page=1/id=1458848044/sortby=mostrecent/json
-- 출처 youtube / 본문 확보 기록 / https://www.youtube.com/watch?v=FaPompPYWyM
-- 출처 player_review / 본문 확보 기록 / https://play.google.com/store/apps/details?hl=ko&gl=KR&id=com.com2us.futurecpb.android.google.global.normal
-
-## 6. Counter-Strike 2
-
-- 지표: 동시접속 422,186명 / Steam · 전 세계 · 현재 접속자 / 관측 2026-10-27T05:11:07.393412+00:00
-- 표본 반응: 혼재 / 신뢰도 중간
-- 장점: 추천 버튼은 우세하지만 GOAT·이모지 등 짧은 반응이 많아 총기 손맛이나 밸런스가 검증됐다고 확대하지 않았다.
-- 주의: 최근 한국어 리뷰에는 매판 핵을 만난다는 불만과 잘 쏜 뒤 정지됐다는 주장이 있다. 공개 토론도 오탐 주장과 반박이 함께 있어 실제 무고 제재로 확정할 수 없다.
-- 영상: 최근 경기 영상의 실제 자막을 확보했습니다. 경기 해설이므로 소비자 만족도·핵 체감·게임 밸런스를 검증한 리뷰로 취급하지 않습니다.
-- 평가에 사용한 범위: 이전 PC 조사 표본과 보완 원문을 이어받았습니다. 아래 자동 인정 수는 최근·중복 제거·본문 길이 조건을 통과한 수로, 전수 정성 독해 수나 대표표본이 아닙니다.
-- 판단: 숙련 지향 경쟁 FPS 후보로 유지. 매일 랭크를 즐길 이용자는 핵 체감·제재/쿨다운 구분을 먼저 확인. 추천 버튼만 보고 초보자 친화적이라고 판단하지 않는다.
-- 다음 확인: 공식 제재 관련 공지, 쿨다운 사례, 같은 시각 동접을 재관측한다.
-- 근거 미달: 개별 구조 요건 충족. 의미 검수 완료 아님.
-
-- 출처 identity / 본문 확보 기록 / https://store.steampowered.com/api/appdetails?appids=730&l=koreana&cc=kr
-- 출처 quantitative / 본문 확보 기록 / https://store.steampowered.com/charts/mostplayed
-- 출처 quantitative / 본문 확보 기록 / https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=730
-- 출처 player_review / 본문 확보 기록 / https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A730%2C%22filter%22%3A1%2C%22languages%22%3A%5B%22koreana%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22num_per_page%22%3A10%2C%22date_range_start%22%3A1792473096%2C%22date_range_end%22%3A1793077896%2C%22filter_offtopic_activity%22%3Atrue%7D
-- 출처 article / 본문 확보 기록 / https://www.rockpapershotgun.com/games-with-loot-boxes-and-other-paid-random-items-re-rated-pegi-16-as-new-rules-come-into-force-hopefully-cutting-down-on-kids-gambling-somewhat
-- 출처 community / 본문 확보 기록 / https://steamcommunity.com/app/730/discussions/0/564797531878684714/
-- 출처 youtube / 본문 미검증 / https://www.youtube.com/watch?v=op4VLFadMxk
-- 출처 youtube / 본문 확보 기록 / https://www.youtube.com/watch?v=1qEZmaQoPrc
-
-## 7. Cyberpunk 2077
-
-- 지표: 동시접속 98,521명 / Steam · 전 세계 · 현재 접속자 / 관측 2026-10-27T05:11:07.417867+00:00
-- 표본 반응: 긍정·실행 안정성 주의 / 신뢰도 중간
-- 장점: 한국어 표본은 인생 게임·재밌어요 등 긍정이 대부분이나 상세 전투 평가는 적다. 독립 빌드 영상의 13:18 이후 자막은 매우 어려움에서도 편안한 전투, 빠른 처치를 평가한다.
-- 주의: 빌드 영상은 13:38 이후 낮은 생존력과 회복 쿨다운을 경고한다. 커뮤니티에서는 업데이트 뒤 모드 호환·실행 실패를 논의하고, 모드 미사용자도 실행 실패를 주장한다. 모드만이 원인이라고 단정할 수 없다.
-- 영상: 실제 자막을 확보한 영상이 있으나 경기 해설·고난도 빌드·독립 리뷰 등 성격이 다릅니다. 조회수는 만족도가 아니며 자동자막 오류 가능성과 협찬 미확인을 고려했습니다.
-- 평가에 사용한 범위: 이전 PC 조사 표본과 보완 원문을 이어받았습니다. 아래 자동 인정 수는 최근·중복 제거·본문 길이 조건을 통과한 수로, 전수 정성 독해 수나 대표표본이 아닙니다.
-- 판단: 스토리와 빌드 실험을 원하면 우선 검토. 기존 모드 이용자는 세이브 백업과 호환성 확인 후 진입. 커뮤니티 해결법은 개인 경험이며 공식 보장으로 제시하지 않는다.
-- 다음 확인: 공식 업데이트와 모드 호환성·실행 실패 사례를 대조. 특정 패치가 원인이라는 주장은 보류.
-- 근거 미달: 개별 구조 요건 충족. 의미 검수 완료 아님.
-
-- 출처 identity / 본문 확보 기록 / https://store.steampowered.com/api/appdetails?appids=1091500&l=koreana&cc=kr
-- 출처 quantitative / 본문 확보 기록 / https://store.steampowered.com/charts/mostplayed
-- 출처 quantitative / 본문 확보 기록 / https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=1091500
-- 출처 player_review / 본문 확보 기록 / https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1091500%2C%22filter%22%3A1%2C%22languages%22%3A%5B%22koreana%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22num_per_page%22%3A10%2C%22date_range_start%22%3A1792473096%2C%22date_range_end%22%3A1793077896%2C%22filter_offtopic_activity%22%3Atrue%7D
-- 출처 article / 본문 확보 기록 / https://www.gamesradar.com/games/cyberpunk/cd-projekt-red-confirms-cyberpunk-2077-is-getting-edgerunners-2-content-with-update-2-5-bringing-a-new-dual-wielding-playstyle/
-- 출처 community / 본문 확보 기록 / https://steamcommunity.com/app/1091500/discussions/0/563671339629824137/
-- 출처 youtube / 본문 확보 기록 / https://www.youtube.com/watch?v=kmk2d8rt-sk
-- 출처 article / 본문 확보 기록 / https://www.cyberpunk.net/en/news/52125/cyberpunk-2077s-edgerunners-2-update-2-5-is-out-now
-- 출처 player_review / 본문 확보 기록 / https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1091500%2C%22filter%22%3A1%2C%22languages%22%3A%5B%22koreana%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22num_per_page%22%3A100%2C%22date_range_start%22%3A1790489109%2C%22date_range_end%22%3A1793081109%2C%22filter_offtopic_activity%22%3Atrue%7D
+- [KR appdetails](https://store.steampowered.com/api/appdetails?appids=578080&cc=kr&l=korean): PUBG Corporation/KRAFTON·무료·한국어. 글로벌 현재 플레이어는 국내 PC방 지표가 아니다.
+- recent 실제 리뷰와 한국어 재요청은 오래된 가능성의 epoch군집·짧은 비난이 있어 현재 만족 판단에서 제외했다. 날짜 환산/인증 미완료.
+- [크래시 토론](https://steamcommunity.com/app/578080/discussions/1/796712653400610283/)은 원글3월15일·최근 댓글 혼재. 개인 장비/오버레이/재설치 경험을 보편 해결책으로 쓰지 않는다. [인벤43.1 기사](https://www.inven.co.kr/webzine/news/?news=320710&site=vr)는9월11일 보도자료여서 오늘 업데이트가 아니다.
+- [C Dome10월22일 영상](https://www.youtube.com/watch?v=aGRD33iv5nY), 실제0:00~38:01 자막.43.2·패스/차량 스킨을 논한다.18:37 파트너 패스·33:05 Gcoin 제공 발화와 제휴 링크 확인. 가격 계산/추천을 한국 결제 가이드로 전용하지 않는다.
+- 판단: 높은 관심·현재 만족 보류·낮은 신뢰. 다음은 날짜경계 API·한국어 구체 문장·독립 최신 PC 기사와 현행 빌드 크래시 검증이다.
 
 ## 8. ARC Raiders
 
-- 지표: 동시접속 41,338명 / Steam · 전 세계 · 현재 접속자 / 관측 2026-10-27T05:11:07.590308+00:00
-- 표본 반응: 혼재 / 신뢰도 중간
-- 장점: 한국어 표본에서 파밍·창고 축적·업그레이드 목표 달성의 재미, 효과음·아트 분위기 장점이 구체적으로 보인다.
-- 주의: 배신·파밍 목표 약화·보상/루팅 갈등·조작감·버그와 제재 문의 불만이 있다. 제재 오탐은 이용자의 주장일 뿐 확인된 사실이 아니다.
-- 영상: 실제 자막을 확보한 영상이 있으나 경기 해설·고난도 빌드·독립 리뷰 등 성격이 다릅니다. 조회수는 만족도가 아니며 자동자막 오류 가능성과 협찬 미확인을 고려했습니다.
-- 평가에 사용한 범위: 이전 PC 조사 표본과 보완 원문을 이어받았습니다. 아래 자동 인정 수는 최근·중복 제거·본문 길이 조건을 통과한 수로, 전수 정성 독해 수나 대표표본이 아닙니다.
-- 판단: 손실 위험과 타인과의 긴장감을 즐기면 검토. 협동 PvE만 원하는 이용자는 상시 모드 확정 전 구매 판단을 보류하는 편이 맞다.
-- 다음 확인: 공식 PvE 운영 방향 및 매칭·루팅 대책 확인. 향후 일정을 확정된 출시로 취급하지 않음.
-- 근거 미달: 개별 구조 요건 충족. 의미 검수 완료 아님.
+- [KR appdetails](https://store.steampowered.com/api/appdetails?appids=1808500&cc=kr&l=korean): Embark·유료·한국어·출시2025년10월30일. [인벤11월2일1주년 기사](https://www.inven.co.kr/webzine/news/?news=322881)는 넥슨 기반 보도자료이며 누적 판매/라운드를 독립 재집계하지 않았다.
+- [공식2.3.0](https://arcraiders.com/news/live-update-2-3-0)10월27일: 보상·그래플링·메모리/크래시 수정과 알려진 문제. 수정목록은 전 기기 해결 증명이 아니다.
+- 실제 리뷰는 추가 플러그인을 쓴 Deck 성능 호평과 기습/손실 불만. 해당 FPS를 순정 실측으로 쓰지 않는다. 일반 호평/마침표 제외, 날짜 인증 n 미계수. [PvE 요구 토론](https://steamcommunity.com/app/1808500/discussions/0/802343728582883571)은4월3일로 현재 다수의견 아님.
+- [DCHINZ10월1일 영상](https://www.youtube.com/watch?v=Cbb3XKJ2XV4), 실제0:00~19:06 자막은 기간 밖 테스트 전 의견. 환경/사운드 인정과 PvE 토글/공격성 매칭 비판이다. 한시 테스트를 현재 상시 모드라고 하지 않는다. 협찬 미확인.
+- 판단: 높은 관심·혼재·중간 신뢰. 다음은 테스트 후 공식 결정, 보상 분리와 현재 안정성, 최근 한국 독립 체험이다.
 
-- 출처 identity / 본문 확보 기록 / https://store.steampowered.com/api/appdetails?appids=1808500&l=koreana&cc=kr
-- 출처 quantitative / 본문 확보 기록 / https://store.steampowered.com/charts/mostplayed
-- 출처 quantitative / 본문 확보 기록 / https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=1808500
-- 출처 player_review / 본문 확보 기록 / https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A1808500%2C%22filter%22%3A1%2C%22languages%22%3A%5B%22koreana%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22num_per_page%22%3A10%2C%22date_range_start%22%3A1792473096%2C%22date_range_end%22%3A1793077896%2C%22filter_offtopic_activity%22%3Atrue%7D
-- 출처 article / 본문 확보 기록 / https://www.gamesradar.com/games/third-person-shooter/arc-raiders-devs-know-pve-has-been-polarizing-promise-to-prioritize-the-games-overall-health-and-enjoyability-when-deciding-what-to-do-next/
-- 출처 community / 본문 확보 기록 / https://steamcommunity.com/app/1808500/discussions/0/572678840008353942/
-- 출처 youtube / 본문 확보 기록 / https://www.youtube.com/watch?v=DKZz2Ojhrw0
+## 9. Phantom Blade Zero
 
-## 9. Slay the Spire 2
+- [KR appdetails](https://store.steampowered.com/api/appdetails?appids=4115450&cc=kr&l=korean): S-GAME·유료·한국어·출시표시10월28일. 현재/최고값 차이를 급락·매출로 해석하지 않는다.
+- 실제 리뷰 문장은 전투/보스 호평과 후반 즉사 잡기·투사체/행동 방해 불만이 공존한다. 짧은 감탄·의미 불명 제외, 생성일 인증 n 미계수. [PC 성능 토론](https://steamcommunity.com/app/4115450/discussions/0/572679173079941801/)은10월29일 표시, AMD/불안정 제보와 정상 보고가 혼재. 오버레이/패스트레이싱 개인 해결은 보편 원인이 아니다.
+- [Eurogamer10월26일 PC 리뷰](https://www.eurogamer.net/phantom-blade-zero-review-1)는 무협 전투/탐험과 긴 방어구간/스토리/프레임 문제를 함께 다룬다. S-Game 리뷰 사본 제공, 직전 업데이트 재검토 제한을 명시했다.
+- [AndreTheAlpha10월27일 영상](https://www.youtube.com/watch?v=QMPLBL2hagw), 실제0:00~10:38 자막. 패링·무기 전환 호평과 난도/벽/이야기 비판. PS5 태그라 PC 성능 근거 아님. 플레이어 타이머/자막 길이 불일치 보존, 협찬 미확인.
+- 판단: 높은 관심·혼재·중간 신뢰. 다음은 출시 후 한국 PC 실측, AMD/저장 공식 대응과 패치 후 보스 평가다.
 
-- 지표: 동시접속 52,348명 / Steam · 전 세계 · 현재 접속자 / 관측 2026-10-27T05:11:07.701462+00:00
-- 표본 반응: 긍정·난도 논쟁 / 신뢰도 중간
-- 장점: 최근 한국어 원문은 반복 도전·다양한 시도·멀티플레이를 호평. 실제 영상의 9:03 이후에는 독특한 빌드가 재미있다는 발언, 17:45 이후에는 역전 승리와 반복 플레이의 쾌감이 드러난다.
-- 주의: 난도가 높고 최종 콘텐츠를 기다린다는 한국어 리뷰가 있다. 10월 3일 커뮤니티 원문은 고수 중심 밸런스라는 불만과 난도를 낮추면 된다는 반론, 메인/베타 브랜치 차이를 함께 담고 있다.
-- 영상: 실제 자막을 확보한 영상이 있으나 경기 해설·고난도 빌드·독립 리뷰 등 성격이 다릅니다. 조회수는 만족도가 아니며 자동자막 오류 가능성과 협찬 미확인을 고려했습니다.
-- 평가에 사용한 범위: 이전 PC 조사 표본과 보완 원문을 이어받았습니다. 아래 자동 인정 수는 최근·중복 제거·본문 길이 조건을 통과한 수로, 전수 정성 독해 수나 대표표본이 아닙니다.
-- 판단: 덱 조합과 실패 학습을 좋아하면 검토. 편안한 완결형 경험을 원하면 얼리액세스 콘텐츠·브랜치별 차이를 먼저 확인.
-- 다음 확인: 확보한 최근 협동·로드맵 기사의 주장과 공식 패치 내용 대조, 메인/베타 난도 차이 확인.
-- 근거 미달: 개별 구조 요건 충족. 의미 검수 완료 아님.
+## 10. Limbus Company
 
-- 출처 identity / 본문 확보 기록 / https://store.steampowered.com/api/appdetails?appids=2868840&l=koreana&cc=kr
-- 출처 quantitative / 본문 확보 기록 / https://store.steampowered.com/charts/mostplayed
-- 출처 quantitative / 본문 확보 기록 / https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=2868840
-- 출처 player_review / 본문 확보 기록 / https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A2868840%2C%22filter%22%3A1%2C%22languages%22%3A%5B%22koreana%22%5D%2C%22purchase_type%22%3A1%2C%22review_type%22%3A0%2C%22num_per_page%22%3A10%2C%22date_range_start%22%3A1792473096%2C%22date_range_end%22%3A1793077896%2C%22filter_offtopic_activity%22%3Atrue%7D
-- 출처 article / 본문 확보 기록 / https://www.pcgamesn.com/slay-the-spire-2/neowsletter-september-2026
-- 출처 community / 본문 확보 기록 / https://steamcommunity.com/app/2868840/discussions/0/589565404421095811/
-- 출처 youtube / 본문 확보 기록 / https://www.youtube.com/watch?v=pMDvg6TNugI
-- 출처 article / 본문 확보 기록 / https://howtovideogame.com/slay-the-spire-2-multiplayer
-- 출처 article / 본문 확보 기록 / https://afkjournal.com/guides/slay-the-spire-2-roadmap-next-update-1-0-release
-
-## 10. Stardew Valley
-
-- 지표: 동시접속 38,340명 / Steam · 전 세계 · 현재 접속자 / 관측 2026-10-27T05:12:57.393384+00:00
-- 표본 반응: 긍정 / 신뢰도 중간
-- 장점: 시간이 녹는다·매일 하고 싶다·접었다 돌아온다는 실제 한국어 경험이 반복된다. 최근 독립 영상 4:48~5:29도 목표를 바꾸며 반복하는 핵심 루프와 재플레이 가치를 호평.
-- 주의: 힐링인데 힐링 같지 않다는 반응이 있어 느긋함을 모든 이용자에게 보장할 수 없다. 표본에 진지한 부정 리뷰가 없어 약점 탐지 편향이 크다.
-- 영상: 실제 자막을 확보한 영상이 있으나 경기 해설·고난도 빌드·독립 리뷰 등 성격이 다릅니다. 조회수는 만족도가 아니며 자동자막 오류 가능성과 협찬 미확인을 고려했습니다. 최근 보완 기사는 실물 아케이드 행사 기사이며 PC판 업데이트가 아닙니다.
-- 평가에 사용한 범위: 이전 PC 조사 표본과 보완 원문을 이어받았습니다. 아래 자동 인정 수는 최근·중복 제거·본문 길이 조건을 통과한 수로, 전수 정성 독해 수나 대표표본이 아닙니다.
-- 판단: 일상 루틴·자기주도 목표·협동을 원하면 우선 검토. 단기 화제작이나 새 업데이트 상승작으로 부르지 않는다.
-- 다음 확인: 최근 아케이드 행사 기사와 PC 업데이트를 구분. 신규·복귀 이용자의 적응 및 멀티플레이 문제 추가 확인.
-- 근거 미달: 개별 구조 요건 충족. 의미 검수 완료 아님.
-
-- 출처 identity / 본문 확보 기록 / https://store.steampowered.com/api/appdetails?appids=413150&l=koreana&cc=kr
-- 출처 quantitative / 본문 확보 기록 / https://store.steampowered.com/charts/mostplayed
-- 출처 quantitative / 본문 확보 기록 / https://api.steampowered.com/ISteamUserStats/GetNumberOfCurrentPlayers/v1/?appid=413150
-- 출처 player_review / 본문 확보 기록 / https://api.steampowered.com/IUserReviewsService/GetAppReviews/v1/?input_json=%7B%22appid%22%3A%20413150%2C%20%22filter%22%3A%201%2C%20%22languages%22%3A%20%5B%22koreana%22%5D%2C%20%22purchase_type%22%3A%201%2C%20%22review_type%22%3A%200%2C%20%22num_per_page%22%3A%2010%2C%20%22date_range_start%22%3A%201792473177%2C%20%22date_range_end%22%3A%201793077977%7D
-- 출처 article / 본문 확보 기록 / https://www.pcgamesn.com/stardew-valley/vr-3d-mod
-- 출처 community / 본문 확보 기록 / https://steamcommunity.com/app/413150/discussions/0/574930637988022841/
-- 출처 youtube / 본문 확보 기록 / https://www.youtube.com/watch?v=TASL4eo8TF0
-- 출처 article / 본문 확보 기록 / https://steamgamer.net/stardew-valleys-first-official-arcade-cabinets-debut-at-red-rocks/
+- [KR appdetails](https://store.steampowered.com/api/appdetails?appids=1973530&cc=kr&l=korean): ProjectMoon·무료/앱내구매·한국어 스토리 음성. 이번은 Steam PC 분류로 모바일과 중복 계산하지 않는다.
+- 실제 문장은 세계관/서사 호평과 보스 재관람 동선 요구. 찬양/짧은 추천/외양 표현을 전투 근거에서 제외했다. 영어 편중·생성일 인증 n 미계수.
+- [DualShockers10월30일](https://dualshockers.com/limbus-company-reveals-new-deckbuilder-game-mode)은 개발 방송의 자동 전투/EGO 개입 구상 소개이며 출시일 확정·모드 체험 아님. [11월3일 자동선택 토론](https://steamcommunity.com/app/1973530/discussions/0/573805391546439235/)은 초반 자동 선택·파워 인플레 비판과 후반 수동 판단 반론을 읽었다. 이용자의90%는 실측 아님.
+- [Tsunul10월20일 영상](https://www.youtube.com/watch?v=lwITVsI-EU8), 실제0:00~30:51 자막은 철학/서사 분석이며 과금/전투 리뷰가 아니다. 자동자막 고유명사 오류 주의·협찬 미확인.
+- 판단: 활동 관심·서사 긍정/전투 반복 혼재·중간 신뢰. 다음은 공식 모드 일정/경제·한국 신규 이용자 학습 문장·기존 난도 공지다.
 
 ## 조사 한계
 
-- WOS·가십하버의 최근 영상 본문 미검증.
-- 컴프야 Google Play 최신 리뷰 20건(본문8자 이상 14건)은 실제 ID·본문·작성일 확보. 정확한 작성 시각·시간대가 없어 자동 게이트 표본 수에 미포함.
-- PC 평가는 이전 조사와 보완 자료를 이어받았으며 모든 기존 주장의 의미 재검수는 완료되지 않음.
-- 리뷰·커뮤니티는 편의표본. 시장 관심·만족도·매출액·잔존율을 동일시하지 않음.
-- 모바일은 한국 iOS 매출 순위 기반, WOS 추가 리뷰에는 미국 표본 포함. PC 동접은 글로벌 값.
-- 기사에는 공식 공지·개발사 릴리스노트도 포함되어 독립 취재 기사와 다름. 플랫폼 운영자 수는 취재 독립성과 다름.
+- 사용자 요청으로 공개한 조사 초안이며 전체 근거 요건을 충족한 검증 완료 보고서가 아닙니다.
+- 리뷰 작성 시각·최근30일 표본 인증과 일부 기사·영상·커뮤니티의 기간·독립성·HTTP 상태 확인이 미완료입니다.
+- 자료는 2026-11-03 당일 수집본입니다. 지표는 실시간 값이 아니며 차트·동접은 만족도·매출액·잔존율을 의미하지 않습니다.
+- 리뷰는 편의표본입니다. 유료 프로모션·파트너 제공·다른 플랫폼 영상과 기간 밖 자료의 한계를 각 게임에 표시했습니다.
